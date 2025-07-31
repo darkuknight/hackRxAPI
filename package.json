@@ -1,0 +1,23 @@
+{
+  "name": "hack-rx-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "gpt-3-encoder": "^1.1.4",
+    "pdfjs-dist": "^5.4.54",
+    "serverless-http": "^3.2.0",
+    "together-ai": "^0.21.0"
+  }
+}
